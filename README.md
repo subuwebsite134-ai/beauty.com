@@ -4,7 +4,7 @@ Yeh ek **Beauty Parlor Website** hai jo maine design aur develop ki hai customer
 
 ## 🌐 Live Demo
 
-👉 *(Agar GitHub Pages / Netlify / Vercel par live hai to yahan link add karein)*
+👉 https://subuwebsite134-ai.github.io/beauty.com/
 
 ## 📸 Screenshots
 
